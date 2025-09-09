@@ -97,9 +97,10 @@ Os seguintes arquivos são salvos para reutilização:
 - `pipeline_clusterizacao_clientes.pkl`: Pipeline completo de pré-processamento
 
 ## 🛠️ Instalação e Uso
+OBS: Caso queira optar por executar em ambientes como Google collab ou Anaconda jupyter, basta descomentar a primeira célula do arquivo ipynb e executar o arquivo caso esteja faltando alguma dependencia. É uma alternativa ao arquivo requirements.txt.
 
 ### Pré-requisitos
-- Python 3.8+
+- Python 3.12+
 - Jupyter Notebook ou JupyterLab
 
 ### Instalação
